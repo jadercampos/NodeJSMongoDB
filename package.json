@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Aplicativo de teste NodeJS e MongoDB",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^2.2.22",
+    "mongoose": "^4.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jader Campos",
+  "license": "ISC"
+}
